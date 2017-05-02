@@ -1,0 +1,34 @@
+MPAs_Groupers
+MAIN TITLE: Effects of short-term marine reserves on grouper and bass populations
+AUTHORS: Juan Carlos Villaseñor-Derbez1, Arturo Hernández-Velasco1, Maite Erauskin2, Stuart Fulton1, Juan José Cota-Nieto3, Jorge Torre-Cosio1, Sharon Herzka-Llona2, Octavio Aburto-Oropeza3
+AFILIATIONS: 1Comunidad y Biodiversidad A.C., Sonora, Mexico, 2Centro de Investigación Científica y de Educación Superior de Ensenada, 3Centro para la Biodiversidad Marina y la Conservación A.C., Baja California Sur, Mexico
+Contact information: jhernandez@cobi.org.mx
+MAIN TEXT:
+Marine ecosystems sustain significant anthropogenic impacts from activities like overfishing, habitat deterioration, destructive fishing practices, pollution, and climate change (1, 2). One way to protect biodiversity and maintain healthy habitats is to create No-Take Marine Reserves (MRs) (3). Ecological benefits follow the implementation of MRs, such as increases in abundance and biomass (overall weight of organisms), which in turn result in a “spillover” effect, where organisms venture out of the MR. These ecological benefits may result in economic benefits; for example, fish can be harvested outside the MRs, offsetting the initial cost of establishing it. 
+Grouper species are among the top predators in marine environments and have been frequently used as indicators of the efficiency of MRs (4). In Isla Magdalena, Baja California Sur, Mexico, the Gulf grouper (Mycteroperca jordani), Leopard grouper (Mycteroperca rosacea), and Sawtail grouper (Mycteroperca prionura) are the dominant grouper species; and the Kelp bass (Paralabrax clathratus) is the dominant bass species. These large fish can reach up to 1.90 m in length and weigh up to 150 kg. Local fishermen state that their abundance and size have declined over time, most likely as a result of overfishing. In 1997, grouper and bass species represented 69.54% of landings (by weight), which accounted for 69.80% of the income. By 2009, these numbers decreased to 1.11 % and 0.54 %, respectively (5).
+With this in mind, fishermen from Isla Magdalena Fishing Cooperative and Comunidad y Biodiversidad, A.C. (COBI) established a voluntary MR to protect these species in 2009, covering 4% of their fishing grounds. Together with the Centro para la Biodiversidad Marina y la Conservación A.C. (CBMC), we have been monitoring grouper and bass populations inside and outside the MR, searching for fish population recovery signs. We count fish (abundances) and estimate their sizes to calculate total biomass at each site. Then, using the average price (pesos/Kg) from CONAPESCA’s landings database, we estimate the potential economic value of protected and unprotected fish populations.
+
+Major findings:
+Data collected during annual surveys (2010-2014; no data for 2013 due to a hurricane) shows that grouper and bass abundances within the MR reached 114 fish counted, 1.58 times higher than in non-protected areas. This, along with larger-sized organisms, accounts for the MR having a biomass of 0.88 T/hectare; 1.4 times higher than fished sites. 
+We estimate fish populations inside the MR to have a potential average economic value of $20,444 pesos/hectare, which would be 1.24 times higher than fished populations. Potential economic value is driven by biomass levels, not by abundances. Some species, like the leopard grouper, had the same abundances inside and outside the MR, however individuals in the MR were larger (higher biomass) which accounts for a higher potential value. Sawtail grouper abundances were higher inside the MR, but organisms in unprotected sites were larger, accounting for high biomass and market value. 
+Fish population recovery is not dependent on protection from fishing alone. A combination of environmental and social factors help explain why five years have not been enough time for fish populations in this MR to recover. Competition for food, predation and species’ resiliency may slow down a recovery process (4). Lack of enforcement and poaching can also affect recovery rates, so local communities may require alternative economic income to offset the costs of not fishing if we are to expect long-term results.
+ 
+REFERENCES
+1)	Halpern BS, Walbridge S, Selkoe Kimberly A., Kappel CV, Micheli F, D’Agrosa C, Bruno JF, Caseu K, Elbert C, Fox HE, Fujita R, Heinemann D, Lenihan HS, Madin EMP, Perry MT, Selig ER, Spalding M, Steneck R, Eatson R. (2008). A global map of human impact on marine ecosystems. Science. doi: 10.1126/science.1149345
+2)	McCauley DJ, Pinsky M, Palumbi SR, Estes JA, Joyce FH, Warner RR. (2015). Marine defaunation: Animal loss in the global ocean. Science. doi: 10.1126/science.1255641
+3)	Micheli F, Saenz-Arroyo A, Greenley A, Vazquez L, Espinoza-Montes JA, Rosetto M, De Leo GA. (2012). Evidence that marine reserves enhance resilience to climatic impacts. PLoS one. doi:10.1371/journal.pone.0040832
+4)	Anderson AB, Bonaldo RM, Barneche DR, Hackradt CW, Félix-Hackradt FC, Gacía-Charton JA, Floeter SR. (2014). Recovery of grouper assemblages indicates effectiveness of marine protected area in Southern Brazil. Mar Ecol Prog Ser. doi: 10.3354/meps11032.
+5)	CONAPESCA fisheries landings database: http://datamares.ucsd.edu/eng/projects/fisheries/mexicos-national-fishery-statistics/
+
+VISUALIZATION TEXT
+Title: How do Marine Reserves help grouper and bass populations?
+Subtext: 
+Average grouper and bass abundances in a marine reserve in Bahia Magdalena, B.C.S., Mexico, were higher than in non-protected areas. This, along with larger-sized organisms, accounts for MR having 1.4 times more biomass (0.88 ton/ha), resulting in a potential average economic value of $20,444 pesos/ha, 1.24 times higher than fished populations. Biomass is presented in tonnes per hectare and potential economic value (Mexican pesos per hectare) are shown below.
+
+HOW TO: Select a species from the list and look at their size distribution, biomass and total potential economic value when they are inside/outside the reserve.
+
+How to: Select a species from the list and look at their size distribution, biomass and total potential economic value when they are inside/outside the reserve. By selecting different years you can see how variables change over time.
+Buzz question: Where do you see more fish, larger fish, and higher potential economic value?
+Data source: COBI’s Marine Reserves monitoring program. Maite Erauskin’s Master’s research, CONAPESCA landings database extract. 
+Disclosure: We wish to thank our partners in these projects: Stanford University, ReefCheck California, Walton Foundation, S.C.P.P. Bahía Magdalena S.R.L., The SFS Center for Wetland Studies México A.C.
+Keywords: Groupers, Basses, Spillover, Isla Magdalena #MarineConservation, #MarineReserves, #FisheryManagement, #EcosystemServices, #ConservationBiology, #MPA

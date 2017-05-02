@@ -1,0 +1,36 @@
+Descargas de la flota atunera mexicana en el Pacífico oriental en el 2014 y su comparación con el periodo 1992-2013.
+
+
+Humberto Robles, Michel Dreyfus y Juan Carlos Villaseñor-Derbez
+
+
+
+Durante el 2014 la flota atunera mexicana realizó un total de viajes de pesca, realizados por embarcaciones de más de 400 metros cúbicos de capacidad de bodega. Las descargas totales reportadas para el 2014 sumaron un total de 138,337 toneladas métricas. El  promedio mensual de descargas fue de 12,576 toneladas métricas (para 11 meses de pesca, por la veda existente hasta el 18 de enero). Aunque existen diferencias en el esfuerzo pesquero aplicado anualmente, éste trabajo está enfocado a las descargas (i.e. extracción) de atún aleta amarilla y no a  la disponibilidad del recurso. Se comparan los años desde un punto de vista de producción.
+
+La Figura 1 nos presenta las descargas acumulativas mensuales del 2014, comparadas con el promedio de las descargas acumulativas histórico (1992-2013). Al principio, se observa que los valores para el 2014 (rombos azules) se encuentran por debajo del promedio (línea roja). Esto se debe a que el mes de enero ya no reporta descargas, pues existe una veda desde el año 2008. A partir del mes de abril, los valores de las descargas acumulativas del 2014 se encuentran por encima del promedio, indicando una mejor captura, con respecto de años anteriores. A excepción de enero y febrero, todos los demás meses presentaron capturas dentro del rango de ± 1 desviación estándar (líneas segmentadas).
+
+ 
+Figura 1.- Comparación mensual entre las descargas acumulativas promedio (1992-2013; línea roja) y las capturas acumulativas del 2014 (rombos azules). Las líneas segmentadas representan ± 1 desviación estándar.
+
+También se compararon las descargas acumulativas del 2014 con el promedio 1992-2013, con el año record de capturas-descargas (2003) y con el de menor volumen de descargas (2007). Ésta información se presenta en la Figura 2, donde la línea recta roja representa una proporción 1:1 entre las descargas del 2014 (eje horizontal) y las de los meses con los que se compara (eje vertical). Siempre que una serie de datos se encuentre por debajo de la línea roja, se estará representando un déficit, en comparación con el 2014. De esta manera, observamos que las descargas promedio 1992-2013 y las descargas del 2007 fueron menores que las del presente año. Sin embargo, las descargas del 2003 fueron siempre mayores pues están por encima de la línea roja.
+
+ 
+Figura 2.- Comparación entre las descargas acumulativas del 2014 y el promedio 1992-2013, descargas acumulativas 2003 (mejor año) y descargas acumulativas 2007 (peor año). La línea roja representa la proporción 1:1.
+
+Para tener un mayor entendimiento del comportamiento histórico de las descargas, se calcularon las anomalías anuales. Esto se presenta en la Figura 3, donde la línea roja representa el promedio total de las descargas comprendidas entre 1992 y 2014. Los puntos que se encuentran por encima representan anomalías positivas, los puntos que se encuentran por debajo representan anomalías negativas. Se observa que este año, las anomalías fueron positivas, reportando un excedente de 4,739 toneladas métricas. También se observa que después del periodo 2006-2007 con valores más bajos, la actividad pesquera se ha recuperado a niveles promedio de este periodo.
+
+ 
+Figura 3.- Anomalías anuales en la descarga total de atún. La línea roja representa el promedio de capturas (1992-2014).
+
+Finalmente, se compararon las descargas mensuales (Fig. 4) y sus acumulativas (Fig. 5) para la totalidad de los años. Éstas se representaron con diagramas de Hövmoller, donde el eje horizontal representa los años, el vertical los meses y los colores las toneladas métricas descargadas.
+En la Figura 4 se observa como el 2003 es el año sobresaliente, que meses con descargas de más de 20 mil toneladas han sido menos frecuentes despues de ese año y que los ultimos años han sido, en general, meses con buen nivel de descargas que sostienen una actividad productiva.
+
+ 
+Figura 4.- Diagrama de Hovmöller representando las descargas (colores) por mes (eje vertical) y año (eje horizontal).
+
+
+Por ultimo en la figura 5, se pueden comparar los años a traves de las descargas acumulativas. De nuevo destaca el año 2003 con el registro record de descargas de la flota mexicana y el descenso brusco en las mismas que se marcó especialmente en 2006-2007. Los años más recientes son parecidos a la mayorìa de los otros años, pudiendo considerarlos como años tìpicos.
+
+ 
+
+Figura 5.- Diagrama de Hovmöller representando las descargas acumulativas (colores) por mes (eje vertical) y año (eje horizontal).

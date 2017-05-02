@@ -1,0 +1,608 @@
+THE NEARSHORE FISHES OF THE CEDROS ARCHIPELAGO (NORTH-EASTERN PACIFIC) AND THEIR BIOGEOGRAPHIC AFFINITIES
+ 
+Ramírez-Valdez, Arturo1,2; Dominguez-Guerrero, Isaí3; Palacios-Salgado, Deivis S.4; Cota-Nieto, Juan José5; Hinojosa-Arango, Gustavo5,6; Correa-Sandoval, Francisco7; Reyes-Bonilla, Hector8; Villaseñor-Derbez, Juan Carlos2,9; Hernandez, Arturo10; Aburto-Oropeza, Octavio1
+
+1Marine Biology Research Division, Scripps Institution of Oceanography, University of California San Diego, La Jolla, CA 92093-0202, USA. arturorv@ucsd.edu
+2Facultad de Ciencias Marinas, Universidad Autónoma de Baja California, Carretera Tijuana-Ensenada km 107, Ensenada, Baja California, México, 22800.
+3CONABIO, Comisión Nacional para el Conocimiento y Uso de la Biodiversidad. Liga Periférico-Insurgentes Sur 4903, Tlalpán 14010, México, D.F.
+4Escuela Nacional de Ingeniería Pesquera, Colección ictiológica (ENIP-UAN), Apartado Postal 10, San Blas, Nayarit. México 63740.
+5Centro para la Biodiversidad Marina y la Conservación, La Paz, Baja California Sur, México.
+6Cátedra CONACYT, CIIDIR-Oaxaca. Calle de Hornos 1003, Sta. Cruz, Xoxocotlán, Oaxaca, México, 71230
+7Instituto de Investigaciones Oceanológicas, Universidad Autónoma de Baja California, Carretera Tijuana-Ensenada km 107, Ensenada, Baja California, México, 22800.
+8Universidad Autónoma de Baja California Sur, Departamento de Biología Marina, Apartado postal 19-B, CP 23080, La Paz, B.C.S., México.
+9Bren School of Environmental Science & Management, University of California Santa Barbara, Santa Barbara, CA 93106
+10Comunidad y Biodiversidad, A.C., Colonia Delicias, Guaymas, México.
+
+ABSTRACT
+Located in the central region of the west coast of Baja California Peninsula, the Cedros Archipelago consists of five continental islands (Isla de Cedros, Natividad, San Benito Este, Medio and Oeste), Cedros being the largest island in the Mexican Pacific. This archipelago represents the biogeographic transition zone between the temperate and subtropical region and hence, the end of the geographic distribution of a large number of species. Based on field surveys, literature, and scientific collection records, an exhaustive species list of fishes associated with the archipelago and their biogeographic relationships is presented. The checklist includes 269 species belonging to 191 genera, 97 families, 31 orders and 4 classes. Of the total species, 105 species were recorded in the field, 57 were the result of the literature review and 218 species of the records were obtained from collections. A total of 14 biogeographic affinities are presented, where 51% of the species have warm-temperate or cold-temperate affinity and 37% have tropical-subtropical affinity. This work highlights the fish diversity present in a transition zone within the temperate and subtropical marine areas of the Northeastern Pacific. More importantly, it reveals a biogeographic region where a great number of species converge, and may be related with the evolutionary history of different taxa and the geological history of the region.
+
+Keywords: systematic list, fish community, Baja California Peninsula, biogeographic transition, Northeastern Pacific.
+
+INTRODUCTION
+	The Cedros Archipelago (CEA) includes five continental islands, and is located 10 km off the coast, in the east-central region of the Baja California Peninsula (Fig. 1). Cedros is the largest island in the Mexican Pacific, and along with San Benito Oeste, Medio and Este, and Natividad island, represent a land territory of 360.7 km2. The polygon formed between all of these islands accounts for a marine region of 3,928.9 km2. 
+	The CEA forms a group of northwestward-trending islands that are considered an extension of the Vizcaino Desert; therefore a sub-region of the Sonoran Desert (Oberbauer 1985). The area was separated from the coast of Baja California by a submersion process in the last glacial period (Busby-Spera 1988), resulting in a 200 m deep channel called the Kellet Channel. The archipelago has a complex geologic history, beginning with rock material accumulated in a deep trough in the late Jurassic period, forming the Jurassic Grand Canyon. During the Cretaceous, the formations were folded, faulted, and overlaid by marine deposits. Finally, uplift occurred as recently as the late Pleistocene (Oberbauer 1985; Busby-Spera 1988).
+	The Pacific islands of the Baja California Peninsula can be considered as among the least degraded ecosystems in continental islands (Littler 1980; Richards 2000; Pondella et al. 2005; Aguirre-Munoz et al. 2008), however unlike their terrestrial biodiversity (Huey 1942; Oberbauer 1985; Mellink 1993; Aguirre-Munoz et al. 2008), the marine diversity has been poorly documented. This contrasts with ecological interest on the central region of the Baja California Peninsula, which represents a transition zone between the San Diegan and the Cortez biogeographic provinces (sensu Horn et al. 2006; Ruiz-Campos et al. 2010). South of the CEA the cold waters from the California Current System converge with the subtropical current system from the south, West Mexican Current (Hubbs 1960; Hickey 1979; Kessler 2006; Taylor et al. 2007), and recently documented intricate eddy motions of ocean water masses in the region contribute to the complexity of the coastal upwelling regime (Miller et al. 1999).
+	To the north of the CEA, temperate species associated with rocky reefs and kelp forests begin to be dominant until Point Conception, California (Horn et al. 2006). To the south of the CEA, species associated with the tropical Cortez and Mexican provinces begin to appear, mainly associated with mangrove ecosystems in estuaries and bays located in Magdalena Bay (24°47.6’N, 112°18.2’W). While some species associated with the San Diegan faunistic province can be found as far south as Bahía Magdalena, the transition begins sharply at Punta Eugenia (27°50.7’N, 115°4.84’W), a major mainland landmark in front of the archipelago. Kelp forests do not persist farther south than Punta Eugenia and tropical marine species become more common (Taylor et al. 2007).
+	The CEA region has been historically relevant for extractive purposes, as archaeological investigations have documented an intensive pre-Hispanic use of marine resources (Des Lauriers 2010), and currently there are fisheries that target on spiny lobster (Panulirus interruptus [Randall, 1840]), green abalone (Haliotis fulgens Philippi, 1854) and pink abalone (H. corrugata Gray, 1828). Although the finfish fishery has less relevance, some taxa are of artisanal importance (e.g. Paralabrax nebulifer (Girard, 1854), P. clathratus (Girard, 1854), Semicossyphus pulcher (Ayres, 1854), and Seriola lalandi (Valenciennes, 1833), (Rodríguez-Valencia et al. 2004). 
+	Despite the ecological and economical importance of this region, there is scarce information about the species that inhabit it. In fact, most published species lists of marine groups contain only information from occasional visits or literature reviews (e.g. Hubbs 1960; Miller and Lea 1972; Love et al. 2005). The few studies that have specifically targeted any of the islands of the CEA are focused on particular fish families (Clinidae: Stepien and Rosenblatt 1991), species (Sardinops spp.: Felix-Uraga et al. 1996; Quiñonez-Velazquez et al. 2002) or habitats (reef fishes: Pondella et al. 2005: intertidal fishes: Carpizo-Ituarte et al. 2012).
+	Baseline studies for the CEA are a priority because the region has begun to show signs of environmental decay related to anthropogenic impacts. Among them the overexploitation of the fishing resources, overpopulation of Cedros Island, and the Mitsubishi/Mexican government–owned salt-transshipment facility, which is a source of introduction for exotic species (Mellink 1993; Des Lauriers 2009; Aguilar-Rosas et al. 2011). The lack of a detailed fish checklist hinders the efforts of decision-makers, who require comprehensive baseline data to set adequate protocols for monitoring temporal changes in community composition caused either by anthropogenic or natural forces (Reyes-Bonilla et al. 2010). Furthermore, without a thorough inventory of fish species, any biogeographic analysis of the CEA will be limited in its relevance and outcomes. 
+The main objective of this work is to provide the first comprehensive, systematic checklist of marine ichthyofauna of the CEA. We performed an overview of the composition of fish community and an analysis of zoogeographic affinity of the species using field surveys, fish collection records, and a full literature review. The results highlights that the relatively high local fish diversity is a result of physical and biological factors determining the transition between warm temperate and subtropical communities in the northeastern Pacific.
+
+MATERIALS AND METHODS 
+	The Cedros Archipelago (CEA) is composed of five islands. Cedros is the dominant topographic feature of a 400 km long submerged ridge, with a maximum height of 1,204 m, encompassing an area of 348.2 km2 and laying approximately 22 km from the nearest point on the central Baja California Peninsula coast (Fig. 1). San Benito archipelago has three small islands situated 31.5 km west of Cedros, encompassing an area of 6 km2 and with a highest altitude of 212 m. Finally, Natividad is located 7.5 km west of Punta Eugenia and measures 6 km in length and 2.5 km at its maximum width, accounting an area of 7.28 km2. 
+	In order to compile the fish checklist of the CEA, we followed three steps. First, we gathered information from electronic and in-house scientific collections from institutions in México, the United States and Canada, encompassing records between 1934 and 2001. In the case of museum data, we reviewed records from thirty collections, either electronically or by direct visits, obtaining records of the following eleven institutions: Universidad Autónoma de Baja California (UABC; Ensenada); Centro Interdisciplinario de Ciencias Marinas (CICIMAR; La Paz); Instituto de Biología de la Universidad Nacional Autónoma de México (México, DF); Scripps Institution of Oceanography (La Jolla); Los Angeles County Natural History Museum (Los Angeles); California Academy of Sciences (San Francisco); National Museum of Natural History, Smithsonian Institution (Washington, DC); American Museum of Natural History (New York); University of Kansas Natural History Museum (Kansas City); University of Florida (Gainesville), and Canadian Museum of Nature Fish Collection (Dartmouth). 
+	Second, we conducted an extensive literature review of the species reported in peer reviewed articles and technical reports from libraries at UABC (Ensenada, México), CICIMAR (La Paz, México), Centro de Investigaciones Biológicas del Noroeste (La Paz, México), Centro de Investigación Científica y de Educación Superior de Ensenada (Ensenada, México), and Scripps Institution of Oceanography (La Jolla, CA). 
+	Finally, we conducted field surveys around the islands between 2010 and 2012 (Table 1). Field surveys included intertidal and subtidal samplings. Intertidal fishes were sampled during eight sampling campaigns, carried out between February 2010 to April 2012 in the rocky tide-pools of five sites at Cedros island, two at San Benito, and two at Natividad (Fig. 1, Table I). Tidepools were sprayed using manual aspersion pumps containing a solution of 10% eugenol (clove oil) dissolved in ethanol. After 10 minutes, the tidepools were thoroughly checked using dip and hand nets (Ruiz-Campos et al. 2010). 
+	Subtidal fishes were sampled in May 2012 through underwater visual censuses performed by trained scuba divers. Using 30 x 2 m belt transects, we dove at three different depths (10, 15 and 20 m) and three main habitats (kelp forest, rocky reef and soft-bottom). We carried out a total of 66 transects in four sites at Cedros, four sites at San Benito and two at Natividad. The total surveyed area with visual censuses was 3,960 m2. Subtidal species were also recorded using the roving dive technique and underwater photography. Voucher specimens of all recorded species in tidepools were kept in the Fish Collection at UABC, while most of the species recorded in the subtidal had in situ photographs taken.
+	In order to establish which records would be considered as valid for purposes of the study, in a geographical information system (QGIS 2.8) we traced a buffer area of 15 km around the archipelago. The records with coordinates inside the buffer area were considered part of the checklist, independently of the collection method or year of collection.
+	The taxonomic identification was performed using descriptions by Miller and Lea (1972), Fischer et al. (1995) and Robertson and Allen (2015). A specialized bibliography was also used for some groups (e.g. clingfishes [Briggs 1955]; gobies [Hoese and Reader 2001]; labrisomid blennies [Hubbs 1953]; rays [Castro-Aguirre and Espinoza-Pérez 1996]; sharks [Espinosa-Pérez et al. 2004]; tube blennies [Stephens 1963 and Stephens et al. 1996]). The final checklist follows a systematics order according to Eschmeyer (2015), with modifications by Wiley and Johnson (2010). Genera and species names are presented alphabetically. To eliminate synonyms and generate a systematic list consisting only of valid names, each taxonomic name was corroborated in the Catalog of Fishes of the California Academy of Sciences (Eschmeyer 2015) and common names in Page et al. (2013).
+	The biogeographic analysis followed three approaches; first we compared the presence/absence of the species recorded in the subtidal field surveys at Cedros, San Benito and Natividad islands and published field records from other eight North-Eastern Pacific islands (Guadalupe island, México [Reyes-Bonilla et al. 2010]; San Martin, and North Coronado from México, and San Clemente, Santa Catalina, Santa Cruz, Santa Barbara, and San Nicolas from U.S.A. [Pondella et al. 2005]). We performed an ordination analysis using the unweighted paired group method using arithmetic averages (UPGMA) and a nonmetric multi-dimensional scaling analysis (nMDS) (Kruskal & Wish, 1978) based on a Bray-Curtis similarity matrix. SIMPER analysis was used to determine the species making the largest contributions to the dissimilarity. Ordination analysis was performed using the statistical package PRIMER 6.1 (Primer-E Ltd: Plymouth: Clarke and Gorley 2006).
+	Second, species distributions were plotted using the available information for northern and southern endpoints following Love et al. (2005), and Robertson and Allen (2015). If a species had not been reported at CEA but was observed during field surveys, endpoints were updated with such information. We develop a MATLAB routine to generate latitudinal distribution for the 262 species with known distribution. We defined species with wide distribution those that have a full geographic range covering at least 60 degrees in latitude and which occurred beyond 30 degrees of latitude in both hemispheres. 
+
+	Finally, we assessed the regionalization of the fish species recorded at CEA. The zoogeographic affinity of the ichthyofauna was achieved following Horn et al. (2006) for the North Pacific region, and Hastings (2000) for the Tropical Eastern Pacific, with modifications from Robertson and Cramer (2009). Considering their distribution range, the species were grouped into eight biogeographic provinces from the Eastern Pacific (Briggs 1974), one realm (North Pacific) and three distribution patterns (AmphiAmerican, Circumtropical, and Circumglobal). 
+
+RESULTS 
+The field surveys, museum records, and literature review, taken together helped to construct a list of 269 species of marine fishes of the CEA, from 191 genera, 97 families, 31 orders, and 4 classes (Table 2). Perciformes was the most commonly represented order, with 33 families and 106 species in total. Almost half of the families (48) are represented by a single species. The most speciose families were Sebastidae (22 spp.), Myctophidae (16 spp.), and Embiotocidae (10 spp.). The genera with the highest number of species were Sebastes (22 spp.) and loosely followed by Citharichthys (5 spp.), and Apogon, Halichoeres, Paralabrax, Icelinus, Lepophidium, and Pleuronichthys with 4 species each.
+	The nMDS ordination plot based on presence/absence data clearly shows a separation of the CEA from the other eight northern islands, located in the California Current system (Fig. 2). The fish assemblages from Cedros, Natividad and San Benito are tightly grouped, indicating high similarities (>50%), while the Channel Islands, North Coronado, and Guadalupe islands constitute a more spread group with equivalent similarity between fish assemblages (<50%), and San Martin island is separated from the rest. 
+	According to the geographic distribution, 135 species have a temperate affinity (warm-temperate to cold-temperate) and 92 species have a tropical affinity (tropical-subtropical). A third group of 35 species are widely distributed in tropical and subtropical seas, and a geographic distribution was not assigned to seven taxa that were not identified to specific level (Fig. 3).
+	A total of 170 species comes from a single source (field record, scientific collections and literature review) and 100 species came from multiple sources (Table 2). Considering all records, 105 species were seen or collected in the field, 57 taxa were cited in the literature review and 218 species had specimens from the CEA housed in scientific collections. Based on our field records, 90 species were recorded in the subtidal (soft bottom [9 spp.] kelp forest and rocky reefs [84 spp.], 3 species were present in both habitats). The intertidal fieldwork contributed with 24 species to the checklist.
+	Analyzing separately the species richness for each of the islands, Cedros had more than twice the number of taxa as San Benito (224 and 107, respectively) and four times that for Natividad island (63 spp.). The differences are largely reduced when considering only the field surveys, in Cedros 78 species were seen or collected, 54 and 56 species at San Benito and Natividad, respectively.
+	The CEA represents the limit of geographical distribution for 104 species; 38% of the total species checklist. For 35 species the archipelago is the northern limit, and for 47 species it is the southernmost point of distribution (Fig. 3). From the listing, we have range extensions for 19 species. For 9 species, this represents the northernmost documented record, and for 10 species the southernmost record (Table 3). 
+	According to the geographic distribution information of all the species, we found 14 distribution patterns; these included one or more biogeographic provinces (Fig. 4). The distribution ranges of 95% of the species comprise two or more biogeographic provinces. The best-represented distribution in number of species was the Oregonian-San Diegan, with 46 species. The distribution pattern Aleutian-San Diegan was represented with 25 species.
+	The presence of 10 endemic species to the San Diegan province was recorded (Fig. 4), including: the lined clingfish (Gobiesox eugrammus), the yellowchin sculpin (Icelinus quadriseriatus), the southern clingfish (Rimicola dimorpha), the Guadalupe blenny (Starksia guadalupae) the chocolate pipefish (Syngnathus euchrous), the tripefin poacher (Xeneretmus ritteri), the island kelpfish (Alloclinus holderi), the California moray (Gymnothorax mordax), the rockpool blenny (Hypsoblennius gilberti), and the slender clingfish (Rimicola eigenmanni). Of these, the last four species were recorded in the field surveys at the CEA.
+
+DISCUSSION
+	A comprehensive systematic checklist of the CEA, with a total of 269 species, is presented here. The biogeographic relationships of the fish assemblages from the CEA showed a separation from its counterparts in northern Baja California and California. Most of the fish community at the CEA (50%) has a temperate affinity (warm-temperate and cold-temperate) and the CEA represents the distribution limit for 106 species (40% of the species reported). The distribution range extension for 22 species is documented.
+	Based on these results, the archipelago has high species richness, 50% of the known species for the entire San Diegan province (Miller and Lea 1976; Horn et al. 2006) and 15% of those in the Cortez province (Hastings et al. 2010; Palacios-Salgado et al. 2012), are reported in this small insular territory. The CEA might be richer than coastal lagoons and bays on the Baja California Peninsula (Danemann and De la Cruz-Agüero 1993; De la Cruz-Agüero et al. 1994, 1996; Rosales-Casián 1996; Galván-Magaña et al. 2000) and even comparable with larger islands in the Gulf of California (155-190 spp.: Del Moral et al. 2013) and with those islands in the Tropical Eastern Pacific (203-363 spp.: Robertson and Cramer 2009; Erisman et al. 2011). 
+	The species richness found in the CEA is the result of a blend of species consisting of 3 large groups with patterns of geographical distribution: 1) temperate species (warm and cold temperate) with limited intrusion into subtropical waters (51% of the species), 2) tropical species with limited intrusion into warm-temperate waters, and 3) tropical species with extended incursion into temperate waters of the Eastern Pacific (eurythermal species).
+
+	Field records showed greater species richness in Cedros (78 species), followed by Natividad and San Benito islands, with 56 and 54 species, respectively. Although sampling effort is an important factor in species record accumulation, the sampled area for Cedros, Natividad and San Benito is equivalent in number of transects, but not for sampling sites. The proximity between islands could assume a similarity in the fish assemblage, however the area of the islands may be an important factor. The perimeter of the island is an indicator of habitat availability and therefore increasing potential to provide shelter for more species (Planes et al. 2012). This relationship could not be obvious on islands with similar perimeters, however, the perimeter of Cedros is 6-fold higher than Natividad and 8-fold higher than San Benito.
+	The resulting nMDS (based on subtidal field surveys from eleven North-Eastern Pacific islands) shows the qualitative differences in fish composition along the CEA and the Southern California Bight islands. This analysis does not show the similarity pattern between San Benito and some of the Channel Islands (California) found by Pondella et al. (2005). A group of 24 species have the largest contribution (78%) to the Bray Curtis dissimilarity between sites (SIMPER analysis); some of those species have a tropical affinity (e.g. Abudefduf troschelii, Apogon retrosella, Caulolatilus princeps, Halichoeres semicinctus, and Zapterix exasperata). The overall differences in the species richness between our field records and previous studies in San Benito (i.e. Pondella et al. 2005) may be related to the inclusion of diverse habitats in the field surveys (i.e. tidepools, and soft bottom), but also by the addition of a tropical affinity species assemblage. Furthermore, transitional regions may be strongly influenced by seasonality, where environmental conditions can be dominant for one of the two converging regions (Horn et al. 2006), therefore inducing a shift in the presence of fish assemblages. 
+	Comparisons to other islands and coastal rocky ecosystems highlight the importance of the CEA in terms of connectivity between warm-temperate and tropical regions. Nevertheless, conservation and management mechanisms such as Marine Protected Areas, Marine Reserves, or Marine Refuges, have not yet been implemented in this region to date, excluding a small Marine Reserve at Natividad Island implemented by local fishermen 2006 (Micheli et al. 2012).
+	The fact that the CEA represents the distribution limit of 106 species (40% of the species reported) is evidence of the biogeographic transition zone. It has been extensively documented that the biogeographic boundaries work diffusely and that their boundaries are movable in response to climatic factors (Hubbs 1960). 
+	This study represents the southernmost distribution extension for 12 species, and the northernmost distribution extension for 10 species. These findings may be explained by the scarcity of field studies in the region, but nevertheless, previous studies (Quast 1968; Mearns 1988; Lea and Rosenblatt 2000; Pondella et al. 2005; Palacios-Salgado and Ramirez-Valdez 2011) have noted a trend of tropical species being recorded farther north of their previously recognized distribution, especially crossing Magdalena Bay, a geographic feature traditionally recognized as a biogeographical barrier. These extensions of distribution range may represent an indicator of the warming trend observed in this biogeographic province (Pondella et al. 2005). 
+	Additionally to the range extensions documented in this study, the record of tropical affinity species that have been reported in San Diego or even farther north are included. However, most of these records have been associated with El Niño phenomenon (Mearns 1988; Lea and Rosenblatt 2000). As some of the species were abundant and recurrent at the CEA, the record of these species in the CEA would represent their northernmost stable populations.
+
+	It is important to highlight the presence of some species in the archipelago that were absent in previous studies in the Peninsula (Danemann and De la Cruz-Agüero 1993; Ruiz-Campos et al. 2010). This is the case for Thalassoma lucasanum, Ophioblennius steindachneri, Chromis atrilobata, and Bodianus diplotaenia, that were recorded further north in Guadalupe Island (Reyes-Bonilla et al. 2010). The presence of fish species in islands and their absence on the mainland has been explained before by structural habitat differences rather than oceanographic differences (Ebeling et al. 1980), and this pattern can be important to consider when seeking to set priority among conservation areas. It also highlights the record in the Mexican coast for the Yellowfin goby (Acanthogobius flavimanus), a native species from the North-Western Pacific that has been reported on the coast of California (Workman and Merz 2007).
+	To our knowledge, the presence of endemic species has not been recognized for the CEA. The record of Gibbonsia norae as an endemic species of Guadalupe Island and San Benito (Hubbs 1960; Reyes-Bonilla et al. 2010) is now accepted as a semi-isolated population of G. montereyensis (Stepien and Rosenblatt 1991). Even though the proximity to the mainland may partly explain this absence of endemism, it is also known that limited endemism exists in the fish fauna of the west coast of the Baja California peninsula (Hubbs 1960).
+	This study demonstrates the importance of complementing recent underwater surveys with historical and museum records to prepare baseline information potentially useful for the conservation and management of fish communities. The CEA plays a key role on the connectivity in the biogeographic transition zone on the Pacific coast of the Baja California Peninsula.
+
+SUMMARY
+We documented the presence of 269 fish species in the Cedros Archipelago, and 105 species were recorded during field surveys. The observed species richness at the CEA may be the result of the confluence of three biogeographic provinces in the Pacific coast of Baja California peninsula, in addition to the proximity of the Archipelago to the mainland coast and past terrestrial connection with the Peninsula. Although habitat heterogeneity is an important factor in this ecosystem, our biogeographical analyses allowed us to identify the representation of 14 distribution patterns in the fish assemblage.
+	The biogeographic transition has a significant impact on the composition of fish communities is this region. That is evident when half of the species have temperate affinity and the rest is composed of species of tropical affinity and wide distribution. In addition, the implication as a biogeographic frontier is when the archipelago represents the distribution limit for 40% of registered species. Finally, the biogeographic analysis showed the low similarity between this island and its northern counterparts, marking the beginning of the transition to a subtropical region.
+
+ACKNOWLEDGMENTS
+This study was funded by the Fondo Mexicano para la Conservación de la Naturaleza, A.C. (FMCN), Comisión para la Cooperación Ambiental (CCA), Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO), and partially by Universidad Autónoma de Baja California (grant CA 403/1/C/50/14, to F. Correa Sandoval). The authors thank Dirección General de Ordenamiento Pesquero of CONAPESCA for the collection permit (DGOPA.06470.120907.3728) and Sociedad Cooperativa de Producción Pesquera Pescadores Nacionales de Abulón S.C. de R.L. de Isla de Cedros for logistic support and transportation to the island. ARV acknowledges a graduate fellowship from Consejo Nacional de Ciencia y Tecnología (CONACYT 160083) and UC MEXUS. We would like to thank the Capt. Ron “Sandman” Steele and Rosalinda Rodríguez and the crew of the R/V Sandman, as well as Raquel López Sagástegui and Paula Ezcurra who provided valuable editorial help in English. 
+
+REFERENCES
+Aguilar-Rosas, L.E., S. Min Boo, F. Correa-Sandoval, A. Ramírez-Valdez, I. Giffard-Mena, C.V. Aguilar-Rosas. 2011. First record of Dictyopteris prolifera (Dictyotales: Phaeophyceae) on the Eastern Pacific coast. Marine Biodiversity Records 4:1-5
+Aguirre-Munoz, A., D.A. Croll, C.J. Donlan, R.W. Henry, III, M.A. Hermosillo, G.R. Howald, et al. 2008. High-impact conservation: Invasive mammal eradications from the islands of western Mexico. Ambio, 37, 101-107.
+Briggs, J.C. 1955. A monograph of the clingfishes (Order Xenopterygii). Stanford Ichthyol Bull, 6, 1-224.
+Briggs, J.C. 1974. Marine Zoogeography. McGraw-Hill, New York. 475 pp.
+Busby-Spera, C.J. 1988. Evolution of a Middle Jurassic back-arc basin, Cedros Island, Baja California: Evidence from a marine volcaniclastic apron: Geological Society of America Bulletin, v. 100(2): 218-233.
+Carpizo-Ituarte, E., A. Ramírez-Valdez, F. Correa-Sandoval., L. Aguilar-Rosas., I. Giffard-Mena., R. Escobar-Fernandez., and G. Montano-Moctezuma. 2012. Assessing a marine biogeographic transition zone: biogeographic patterns of the tidepools fishes of Isla de Cedros, Mexico. in: Hortal, J.; Faller, K.; Feeley, K.; Field, R.;  et al. 2012. Conference program and abstracts. International Biogeography Society 6th Biennial Meeting 9-13 January 2013, Miami, Florida, USA. Frontiers of Biogeography, 4(5).
+Castro-Aguirre J.L., and H. Espinosa-Pérez. 1996. Catálogo sistemático de las rayas y especies afines de México (Chondrichthyes: Elasmobranchii: Rajiformes: Batoideiomorpha). México: Instituto de Biologı́a, Universidad Nacional Autónoma de México, Listados Faunı́sticos de México 8:75.
+Clarke, K.R., and R. N. Gorley. 2006. Primer v6. User manual/tutorial. Primer-E Ltd. Plymouth. 190 pp.
+Danemann, G. D., and J. De la Cruz-Agüero. 1993. Ictiofauna de la Laguna de San Ignacio, B.C.S., México. Ciencias Marinas 19: 333–341.
+De La Cruz-Agüero, J., F. M. Galván, A. C. Abitia, J. R. Rodríguez and F. J. Gutiérrez. 1994. Lista sistemática de los peces marinos de bahía Magdalena, Baja California Sur, México. Ciencias Marinas 20: 17-31. 
+De La Cruz-Agüero, J., M. Arellano-Martínez and V. M. Cota- Gómez. 1996. Lista sistemática de los peces marinos de las Lagunas Ojo de Liebre y Guerrero Negro, B.C.S. y B.C., México. Ciencias Marinas 22: 111–128.
+Del Moral-Flores, L.F., A.F. González-Acosta, H. Espinosa-Pérez, G. Ruiz-Campos and J.L. Castro-Aguirre. 2013. Annotated checklist of the ichthyofauna from the islands of the Gulf of California, with comments on its zoogeographic affinities. Revista Mexicana de Biodiversidad 84: 184-214.
+Des Lauriers, M.R. 2010. Island of Fogs: Archaeological and Ethnohistorical Investigations of Isla Cedros, Baja California. Salt Lake City: University of Utah Press.
+Ebeling, A.W., R.J. Larson and W.S. Alevizon. 1980. Habitat Groups and Island-Mainland Distribution of Kelp-bed Fishes off Santa Barbara, CA." In: Proccedings of the 2nd California Islands Multidisciplinary Symposium. 403-431.
+Erisman, B.E, G.R. Galland, I. Mascareñas, J. Moxley, H.J. Walker, O. Aburto-Oropeza, P.A. Hastings and E. Ezcurra. 2011. List of coastal fishes of Islas Marías archipelago, Mexico, with comments on taxonomic composition, biogeography, and abundance. Zootaxa 2985: 26–40.
+Eschmeyer, W.N. (ed). Catalog of fishes: genera, species, references. (http://research.calacademy.org/research/ichthyology/catalog/fishcatmain.asp). Electronic version accessed 14 oct 2014. [This version was edited by Bill Eschmeyer.]
+Espinosa-Pérez, H., J.L. Castro-Aguirre, and L. Huidobro-Campos. 2004. Listados faunísticos de México. IX. Catálogo sistemático de tiburones (Elasmobranchii: Selachimorpha). Universidad Nacional Autónoma de México, México
+Félix-Uraga, R., R.M. Alvarado-Castillo., and R. Carmona-Piña. 1996. The sardine fishery along the western coast of Baja California, 1981 to 1994. California Cooperative Oceanic Fisheries Investigations Reports 37: 188-192.
+Fischer, W., F. Krupp., W. Schneider., C. Sommer., K.E. Carpenter., and V.H. Niem. 1995. Guia FAO para la identificación de especies para los fines de pesca. Pacífico Centro-Oriental. (Vol- II-III). FAO.
+Hastings, P.A. 2000. Biogeography of the tropical eastern Pacific: distribution and phylogeny of chaenopsid fishes. Zoological Journal of the Linnean Society 128:319-335.
+Hastings, P.A., Findley L.T., Van der Heiden A.M. 2010. Fishes of the Gulf of California. Pp: 96–118. In: Brusca R. (ed.). The Gulf of California. Biodiversity and Conservation. University Arizona Press. Tucson, AZ, USA.
+Hickey, B.M. 1979. The California Current System-hypothesis and facts. Progress in Oceanography 8:191-279.
+Hoese, F.D., and S. Reader. 2001. A preliminary review of the eastern Pacific species of Elacatinus (Perciformes: Gobiidae). Rev Biol Trop 49(Supl. 1):157–167
+Horn, M. H., L. G. Allen, and R. N. Lea. 2006. Biogeography. In The ecology of marine fishes. California and adjacent waters, L. G. Allen, D. J. Pondella and M. H. Horn, eds. Berkeley: University of California Press. pp. 3–25.
+Hubbs, C.L. 1953. Revision of the Eastern Pacific fishes of the clinid fish genus Labrisomus. Zoologica 38(3):113–136
+Hubbs, C.L. 1960. The marine vertebrates of the outer coast. Symposium The Biogeography of Baja California and adjacent seas. Systematic Zoology 9:134-147.
+Huey, L.M. 1942. Two new wrens and a new jay from Lower California, Mexico. Transactions of the San Diego Society of Natural History. Vol IX (35):427-434.
+Kessler, W.S. 2006. The circulation of the eastern tropical Pacific: A review, Progress in Oceanography, Volume 69, Issues 2–4, May–June 2006, Pages 181-217, 
+Kruskal, J.B. and M. Wish. 1978. Multidimensional scaling, Sage Publications, Beverly Hills. 487 pp.
+Lea, R.N., and R.H. Rosenblatt. 2000. Observations on fishes associated with the 1997–98 El Niño off California. California Cooperative Oceanic Fisheries Investigations Reports. 41:117–129.
+Littler, M.M. 1980. Overview of the rocky intertidal systems of southern California. Multidisciplinary symposium on the California Islands (ed. by D.M. Power), pp. 265–306. Santa Barbara Museum of Natural History, Santa Barbara, CA. 
+Love, M.S., C.W. Mecklenburg., T.A. Mecklenburg., and L.K. Thorsteinson. 2005. Resource inventory of marine and estuarine fishes of the west coast and Alaska: A checklist of north Pacific and Arctic ocean species from Baja California to the Alaska-Yukon Border. U.S. Department of the Interior, U.S. Geological Survey, Biological Resources Division, Washington. 276 pp.
+Mearns, A.J. 1988. The “odd fish”: unusual occurrences of marine life as indicators of changing ocean conditions. In Marine organisms as indicators, (D.F. Soule and G.S, Kleppel (eds.). Springer-Verlag, New York, pp. 137–176.
+Mellink, E. 1993. Biological conservation of Isla de Cedros, Baja California, México: assessing multiple treats. Biodiversity and Conservation, 2:62-69.
+Micheli, F., Saenz-Arroyo, A., Greenley, A., Vazquez, L., Espinoza-Montes, J.A., Rosseto, M., and G.A. De Leo. 2012. Evidence that Marine Reserves Enhance Resilience to Climatic Impacts. PLoS ONE, 7(7):e40832.
+Miller, A.J., J.C. McWilliams., N. Schneider., J.S. Allen., J.A. Barth, R.C. Beardsley., F.P. Chavez., T.K. Chereskin., C.A. Edwards., R.L. Haney., K.A. Kelly., J.C. Kindle., L.N. Ly., J.R. Moisan., M.A. Noble., P.P. Niiler., L.Y. Oey, F.B. Schwing., R.K. Shearman., and M.S. Swenson. 1999. Observing and modeling the California Current System. Eos Transactions, American Geophysical Union 80:533–9.
+Miller, J.D., and N.R Lea. 1972. Guide to the coastal marine fishes of California. Fish. Bull. 157: 1-249.
+Oberbauer, T.A.1985. Floristic Analysis of Vegetation Communities on Isla de Cedros, Baja California, Mexico. Pest Control 1:75-82.
+Page, L.M., H. Espinosa-Pérez, L.T. Findley, C.R. Gilbert, R.N. Lea, N.E. Mandrak, R. L. Mayden. 2013. Common and scientific names of fishes from the United States, Canada, and Mexico, 7th edn. Spec Publ Am Fish Soc No. 34, Bethesda, MD
+Palacios-Salgado, D.S. and A. Ramirez-Valdez. 2011. New Records of Demersal Fishes in the Northwest of Mexico. J. Fisheries and Aquatic Science. 6(1): 93-100.
+Palacios-Salgado, D.S., L.A. Burnes-Romo, J.J. Tavera and A. Ramírez-Valdez. 2012. Endemic fishes of the Cortez biogeographic province (Eastern Pacific Ocean). Acta Ichthyologica Et Piscatoria 42 (3): 153–164.
+Planes S, Lecchini D, Mellin C, Charton JC, Harmelin-Vivien M, Kulbicki M, Mou-Tham G, Galzin R. 2012. Environmental determinants of coral reef fish diversity across several French Polynesian atolls. Comptes Rendus Biologie 335: 417-423.
+Pondella, D.J., II, B.E. Gintert, J.R. Cobb and L.G. Allen. 2005. Biogeography of the nearshore rocky-reef fishes at the southern and Baja California islands. Journal of Biogeography 32:187-201.
+Quast, J.C. (1968) Fish fauna of the rocky inshore zone. Utilization of kelp-bed resources in southern California (ed. By W.J. North and C.L. Hubbs), pp. 35–55. California Department of Fish and Game, Fish Bulletin, 139, 1–264.
+Quiñonez-Velázquez, C., R. Alvarado-Castillo., and R. Félix-Uraga. 2002. Relación entre el crecimiento individual y la abundancia de la población de la sardina del Pacífico Sardinops caeruleus (Pisces: Clupeidae) (Girard 1856) en Isla de Cedros, Baja California, México. Revista de Biología Marina y Oceanografía 37 (1): 1-8.
+Reyes-Bonilla, H., A. Ayala-Bocos, S. González-Romero, I. Sánchez-Alcántara, M. Walther-Mendoza, Y.R. Bedolla-Guzmán, A. Ramírez-Valdez, L.E. Calderón-Aguilera, and N.C. Olivares-Bañuelos. 2010. Checklist and biogeography of fishes from Guadalupe Island, Western México. Cal Coop Ocean Fish Invest Rep 51:195–209
+Richards, D.V. 2000. The status of rocky intertidal communities in the Channel Islands National Park. Proceedings of the fifth California Islands symposium (ed. by D.R. Browne, K.L. Mitchell and H.W. Chaney), pp. 356–358. Santa Barbara Museum of Natural History, Santa Barbara, CA.
+Robertson, D.R. and G.R. Allen. 2015. Shore fishes of the Tropical Eastern Pacific: an information system on line. Ver 1.0 (2015). Smithsonian Tropical Research Institute, Balboa, Panamá. www.neotropicalfishes. org/sftep Robertson et al. (2004).
+Robertson, D.R. & Cramer, K.L. (2009) Shore fishes and biogeographic subdivisions of the tropical Eastern Pacific. Marine Ecology Progress Series, 380, 1–17.
+Rodriguez Valencia, J.A., F. Caballero Alegria, and J. Castro Gonzalez. 2004. Tendencias de temporales (1989–1999) en las poblaciones de Haliotis fulgens y H. corrugata (Gastropoda: Haliotidae) de Isla Cedros, Baja California, México. Ciencias Marinas 30:489–501.
+Rosales-Casián, J.A. 1996. Ichthyofauna of Bahía de San Quintín, Baja California, México and its adjacent coast. Cienc. Marinas 22:443–458.
+Ruiz-Campos, G., Ramírez-Valdez, A., González-Guzmán, S., Castro-Aguirre, J.L., González-Acosta, A.F., and J. De La Cruz-Agüero. 2010. Composition, density and biogeographical affinities of the rocky intertidal fishes on the western coast of the Baja California peninsula, Mexico. California Cooperative Oceanic Fisheries Investigations Reports Vol. 51: 210-220.
+Stephens, J.S. 1963. A revised classification of the blennioid fishes of the American family Chaenopsidae. University of California Publications. Zoology 68:1-165. 
+Stephens, J.S., Hobson, E.S, and R.K. Johnson. 1966. Notes on distribution, behavior and morphological variation in some Chaenopsid fishes from the Tropical Eastern Pacific with descriptions of two new species, Acanthemblemaria castroi and Coralliozetus springeri. Copeia 3:424–438
+Stepien, C.A, and R.H. Rosenblatt. 1991. Patterns of gene flow and genetic divergence in the northeastern pacific clinidae teleostei blennioidei based on allozyme and morphological data. Copeia, 873-896.
+Taylor, R.E., J. Southon, and M.R. Des Lauriers. 2007. Holocene marine reservoir time series ΔR values from Cedros Island, Baja California. Radiocarbon, Vol 49(2): 899–904.
+Wiley, E.O, and D. Johnson. 2010. A teleost classification based on monophyletic groups. In: Nelson JS, Schultze HP, Wilson MVH (eds) Origin and Phylogenetic Interrelationships of Teleosts. Pfeil, München, pp 123–182.
+Workman, M. L. and J. E. Merz. 2007. Introduced yellowfin goby, Acanthogobius flavimanus: Diet and habitat use in the Lower Mokelumne River, California. San Francisco. Estuary and Watershed Science 5(1).
+
+
+
+ 
+
+Table 1. Study sites and habitat in the Cedros Archipelago. *I=Intertidal, S=Subtidal; **T=Tidepools, K=Kelp forest, R=Rocky reefs, S=Soft bottom.
+	Site	Coordinates	Date	Sampled zone*	Habitat**	Temp C
+Cedros Island	Punta Norte	28°21'48.7 N, 115°11'50.7 W	17-May-12	I, S	T, K	14
+	Lobera	28°20'12.1 N, 115°11'43.9 W	18-May-12	S	K, R	14
+	San Agustin	28°4'48.9 N, 115°20'27.3 W	19-May-12	I, S	T, K	14
+	El Coloradito	28°11'54.5 N, 115°15'45.7 W	I	T	
+	Punta Prieta	28°2'14.6 N, 115°15'11.9 W	I	T	
+	Punta Morro Redondo	28°1'56.7 N, 115°11'18.1 W	I	T	
+	Piedra Garropa	28°18'17.5 N, 115°10'19.1 W	18-May-15	S	S, R	14
+San Benitos	SBE Curricanera	28°17‘38.5 N - 115°32‘28.1 W	20-May-12	I, S	T, K	15
+	SBE Tranquilidad	28°19.0‘ N - 115°35.0‘ W	22-May-12	I, S	T, K	14
+	SBM La Lobera	28°18‘25 N - 115°34‘11 W	21-May-12	S	T, K, R	16
+	SBW Punta Norte	28°18'29.6 N, 115°35'9.5 W	22-May-12	I	T	
+	SBW Faro	28°17‘40.7 N - 115°35‘31.1 W	21-May-12	S	R	15
+Natividad	Baradero	27°52‘31.4 N - 115°10‘16.8 W	I, S	T, K	15
+	La Guanera	27°51‘5.8 N - 115°10‘2.6 W	S	T, K	15
+ 
+
+
+Table 2. Systematic list of fishes of Cedros Archipelago, México, Northeastern Pacific. Classification according to Eschmeyer (2015). 
+*Common name sensu Page et al. (2013); 1=Fiel record, 2=Museum recod, 3=Literature; **Data from field surveys; ***BA= Biogeographic affinity: AL= Aleutian province, OR= Oregonian province, SD= San Diegan province, CZ= Cortez province, MX= Mexican province, PA= Panamic Province, PE= Peruvian Province, POI= Pacific Oceanic Islands province, CG= Circumglobal, CT= Circumtropical, NWP= North Western Pacific, EP= Eastern Pacific, AA= AmphiAmerican. sensu Love et al. (2005) and Robertson and Allen (2015).
+CLASS	ORDER	FAMILY	Scientific name	Common name	Cedros	San Benitos	Natividad	Museum data	Habitat	Notes	BA
+MYXINI								
+	MYXINIFORMES								
+		MYXINIDAE								
+			Eptatretus deani (Evermann & Goldsborough, 1907)	black hagfish	2	2		LACM, SIO		Southern limit	AL-SD
+			Eptatretus mcconnaugheyi Wisner & McMillan, 1990	shorthead hagfish	3	3				Southern limit	SD-CZ
+			Eptatretus stoutii (Lockington, 1878)	Pacific hagfish	2	2		LACM, SIO			OR-SD
+CHONDRICHTHYES								
+	HEXANCHIFORMES								
+		HEXANCHIDAE								
+			Notorynchus cepedianus (Péron, 1807)	Broadnose sevengill shark			1		S		CG
+	HETERODONTIFORMES								
+		HETERODONTIDAE								
+			Heterodontus francisci (Girard, 1855)	horn shark	1, 2	1	1	CICIMAR, LACM	S		OR-CZ
+			Heterodontus mexicanus Taylor & Castro-Aguirre, 1972	Mexican horn shark	1, 3	3	1		S		MX-PA
+	LAMNIFORMES								
+		LAMNIDAE								
+			Isurus oxyrinchus Rafinesque, 1810	shortfin mako			1		S		CG
+	CARCHARINIFORMES								
+		SCYLIORHINIDAE								
+			Cephaloscyllium ventriosum (Garman, 1880)	swell shark		2		SIO			OR-CH
+		TRIAKIDAE								
+			Galeorhinus galeus (Linnaeus, 1758)	tope		2		IGUNAM, SIO			CG
+			Mustelus californicus Gill, 1864	gray smoothhound	2			CICIMAR			OR-CZ
+			Mustelus lunulatus Jordan & Gilbert, 1882	sicklefin smoothhound		2		SIO			SD-CH
+			Triakis semifasciata Girard, 1855	leopard shark		2		CICIMAR, SIO			OR-MX
+		CARCHARHINIDAE								
+			Carcharhinus brachyurus (Günther, 1870)	narrowtooth shark		2		IGUNAM, SIO			CG
+		SPHYRNIDAE								
+			Sphyrna zygaena (Linnaeus, 1758)	smooth hammerhead	3						CT
+			Sphyrna sp.				1		S		
+	SQUATINIFORMES								
+		SQUATINIDAE								
+			Squatina californica Ayres, 1859	Pacific angelshark	1		1		S		EP
+	RAJIFORMES								
+		RAJIDAE								
+			Raja inornata Jordan & Gilbert, 1881	California skate	2			CAS, LACM			AL-CZ
+			Raja stellulata Jordan & Gilbert, 1880	Starry skate	3					Southern limit	NEP
+		RHINOBATIDAE								
+			Rhinobatos productus Ayres, 1854	shovelnose guitarfish	2			LACM			OR-MX
+			Zapteryx exasperata (Jordan & Gilbert, 1880)	banded guitarfish	1	1	1		S		SD-PA
+	MYLIOBATIFORMES								
+		MYLIOBATIDAE								
+			Myliobatis californica Gill, 1865	bat ray	1				S		OR-MX-POI
+		UROLOPHIDAE								
+			Urobatis concentricus Osburn & Nichols, 1916	reef stingray	1, 3				S	Northern limit	CZ-MX
+			Urobatis halleri (Cooper, 1863)	round stingray	1, 2		1	SIO	S		OR-PA
+HOLOCEPHALI								
+	CHIMAERIFORMES								
+		CHIMAERIDAE								
+			Hydrolagus colliei (Lay & Bennett, 1839)	spotted ratfish	2, 3			CICIMAR			AL-CZ
+ACTINOPTERI								
+	ANGUILLIFORMES								
+		MURAENIDAE								
+			Gymnothorax mordax (Ayres, 1859)	California moray	1, 2	1, 2		UABC, LACM, SIO	I, S		SD
+		CONGRIDAE								
+			Gnathophis cinctus (Garman, 1899)	hardtail conger		2		SIO			SD-CH
+		NEMICHTHYIDAE								
+			Nemichthys scolopaceus Richardson, 1848	slender snipe eel	2			LACM			CT
+		NETTASTOMATIDAE								
+			Facciolella equatorialis (Gilbert, 1891)	dogface witch eel	2	2		SIO			SD-PA
+	CLUPEIFORMES								
+		CLUPEIDAE								
+			Etrumeus teres (DeKay, 1842)	round herring	2, 3			CICIMAR, CMN, CAS			CG
+			Sardinops sagax (Jenyns, 1842)	Pacific sardine	1, 2, 3		1, 2		S		AL-CZ
+		ENGRAULIDAE								
+			Engraulis mordax Girard, 1854	Northern anchovy	2			CICIMAR, LACM, SIO			AL-CZ
+	OSMERIFORMES								
+		ARGENTINIDAE								
+			Argentina sialis Gilbert, 1890	Pacific argentine	2	2		CICIMAR, IBUNAM, LACM, SIO			OR-SD
+		MICROSTOMATIDAE								
+			Nansenia crassa Lavenberg, 1965	Stout argentine	2			CICIMAR		Southern limit	OR-SD
+		BATHYLAGIDAE								
+			Bathylagoides wesethi (Bolin, 1938)	Snubnose blacksmelt	2			CICIMAR			OR-SD
+			Leuroglossus stilbius (Gilbert, 1890)	California smoothtongue	2			CICIMAR			OR-PA
+	STOMIIFORMES								
+		GONOSTOMATIDAE								
+			Cyclothone acclinidens Garman, 1899	Benttooth bristlemouth	2			CICIMAR			CG
+			Cyclothone signata Garman, 1899	Showy bristlemouth	2			CICIMAR			EP
+			Diplophos taenia Günther, 1873	Pacific portholefish	2			CICIMAR			CG
+		STERNOPTYCHIDAE								
+			Argyropelecus sladeni Regan, 1908	Sladen's hatchet fish	2			CICIMAR			CG
+		PHOSICHTHYIDAE								
+			Ichthyococcus irregularis Rechnitzer & Böhlke, 1958	Bulldog lightfish	2			CICIMAR			NEP
+			Vinciguerria lucetia (Garman, 1899)	Panama lightfish	2			IBUNAM, CICIMAR			OR-CH
+		STOMIIDAE								
+			Idiacanthus antrostomus Gilbert, 1890	Pacific blackdragon	2			CICIMAR			TEP
+			Stomias atriventer Garman, 1899	Blackbelly dragonfish	2			CICIMAR		Northern limit	SD-CH
+	AULOPIFORMES								
+		SCOPELARCHIDAE								
+			Scopelarchus guentheri Alcock, 1896	Staring pearleye	2			CICIMAR			CT
+			Scopelarchoides nicholsi Parr, 1929	Pearleye	3					Northern limit	SD-CH
+		SYNODONTIDAE								
+			Synodus lacertinus Gilbert, 1890	Calico lizardfish	3						SD-CH-POI
+			Synodus lucioceps (Ayres, 1855)	California lizardfish	2	2		IBUNAM, CICIMAR, LACM, SIO		Southern limit	OR-CZ
+		PARALEPIDIDAE								
+			Arctozenus risso (Bonaparte, 1840)	White Barracudina	2			CICIMAR		Southern limit	CG
+			Lestidiops ringens (Jordan & Gilbert, 1880)	Slender barracudina	2			CICIMAR, LACM		Southern limit	OR-SD
+	MYCTOPHIFORMES								
+		MYCTOPHIDAE								
+			Ceratoscopelus townsendi (Eigenmann & Eigenmann, 1889)	Dogtooth lampfish	2			CICIMAR			CG
+			Diogenichthys atlanticus (Tåning, 1928)	Longfin lanternfish	2			CICIMAR			CG
+			Diogenichthys laternatus (Garman, 1899)	Diogenes lanternfish	2			CICIMAR			SD-CH
+			Electrona risso (Cocco, 1829)	Electric lantern fish	2			CICIMAR			CG
+			Gonichthys tenuiculus (Garman, 1899)	Slendertail lanternfish	2			CICIMAR			SD-CH
+			Hygophum atratum Garman, 1899	Thickhead flashlightfish	2			CICIMAR			CZ-CZ
+			Hygophum reinhardtii (Lütken, 1892)	Reinhardt's lantern fish	2			CICIMAR			AA
+			Lampadena urophaos Paxton, 1963	Sunbeam lampfish	2, 3			CICIMAR			AA
+			Loweina rara (Lütken, 1892)	Laura's lantern fish	2			CICIMAR			CG
+			Myctophum nitidulum Garman, 1899	Pearly lanternfish	2			CICIMAR			CG
+			Nannobrachium idostigma (Parr, 1931)	Lanternfish	2			CICIMAR		Range extension North	TEP
+			Nannobrachium ritteri (Gilbert, 1915)	Broadfin lampfish	2			CICIMAR		Southern limit	NEP
+			Notolychnus valdiviae (Brauer, 1904)	Topside lampfish	2			CICIMAR			CT
+			Protomyctophum crockeri (Bolin, 1939)	California flashlightfish	2			CICIMAR			NP
+			Symbolophorus californiensis (Eigenmann & Eigenmann, 1889)	Bigfin lanternfish	2, 3			CICIMAR		Southern limit	NP
+			Triphoturus mexicanus (Gilbert, 1890)	Mexican lampfish	2			CICIMAR			AL-MX
+	LAMPRIFORMES								
+		TRACHIPTERIDAE								
+			Zu cristatus (Bonelli, 1820)	Scalloped ribbonfish	2			SIO			CG
+	GADIFORMES								
+		MORIDAE								
+			Physiculus rastrelliger Gilbert, 1890	Hundred-fathom codling	2			SIO			OR-PA
+		MERLUCCIIDAE								
+			Merluccius productus (Ayres, 1855)	Pacific hake	2			CICIMAR, SIO			AL-MX
+	OPHIDIIFORMES								
+		OPHIDIIDAE								
+			Chilara taylori (Girard, 1858)	Spotted cusk-eel	2			LACM, SIO			OR-PA
+			Lepophidium negropinna Hildebrand & Barton, 1949	Specklefin cusk-eel	2			CICIMAR, SIO		Northern limit	TEP
+			Lepophidium prorates (Jordan & Bollman, 1890)	Prowspine cusk-eel	2			LACM		Range extension North	TEP
+			Lepophidium stigmatistium (Gilbert, 1890)	Mexican Cusk-eel	3					Northern limit	SD-CZ
+			Lepophidium sp.		2			LACM			
+			Ophidion galeoides (Gilbert, 1890)	Spotfin Cusk-eel	3					Northern limit	SD-PA
+			Ophidion scrippsae (Hubbs, 1916)	Basketweave cusk-eel	2			CICIMAR, CAS, LACM, SIO			OR-SD
+	BATRACHOIDIFORMES 								
+		BATRACHOIDIDAE								
+			Porichthys myriaster Hubbs & Schultz, 1939	Specklefin midshipman	2			CICIMAR, SIO			OR-PA
+			Porichthys notatus Girard, 1854	Plainfin midshipman	2			CAS, IBUNAM, LACM, SIO			OR-SD
+	GOBIESOCIFORMES 								
+		GOBIESOCIDAE								
+			Gobiesox eugrammus Briggs, 1955	Lined clingfish		2		SIO		Southern limit	SD
+			Gobiesox rhessodon Smith, 1881	California clingfish	1, 2	1, 2	1	UABC, LACM, SIO	I		OR-SD
+			Rimicola dimorpha Briggs, 1955	Southern clingfish		2		SIO		Southern limit	SD
+			Rimicola eigenmanni (Gilbert, 1890)	Slender clingfish	1, 2			UABC, LACM	I		SD
+	ATHERINIFORMES								
+		ATHERINIDAE								
+			Leuresthes tenuis (Ayres, 1860)	California grunion	1, 2			UABC, SIO	I, S		OR-SD
+		ATHERINOPSIDAE								
+			Atherinops affinis (Ayres, 1860)	Topsmelt	1, 2	1, 2	1	UABC, CAS, LACM, SIO	I, S		AL-CZ
+			Atherinopsis californiensis Girard, 1854	Jacksmelt	1, 2	2		UABC, CAS, LACM, SIO	I		OR-CZ
+	BELONIFORMES								
+		SCOMBERESOCIDAE								
+			Cololabis saira (Brevoort, 1856)	Pacific saury	2	2		CICIMAR, CAS, LACM, SIO			NP
+		BELONIDAE								
+			Platybelone argalus (Lesueur, 1821)	Keeltail needlefish		2		SIO		Range extension North	CT
+			Strongylura exilis (Girard, 1854)	California needlefish	2, 3			LACM, SIO			OR-CH
+			Tylosurus crocodilus (Péron & Lesueur, 1821)	Hound needlefish	1, 2		1	UABCS	S	Northern limit	CG
+		HEMIRAMPHIDAE								
+			Euleptorhamphus viridis (van Hasselt, 1823)	Ribbon halfbeak	2	2		SIO			TR
+			Hemiramphus saltator Gilbert & Starks, 1904	Longfin halfbeak	2			LACM		Range extension North	TEP
+		EXOCOETIDAE								
+			Cheilopogon heterurus (Rafinesque, 1810)	Blotchwing flyingfish	2		2	CICIMAR, SIO			CT
+			Cheilopogon pinnatibarbatus (Bennett, 1831)	Smallhead flyingfish	2	2	2	CAS, LACM, SIO			OR-CZ
+			Cypselurus sp.		2			LACM			
+	STEPHANOBERYCIFORMES								
+		MELAMPHAIDAE								
+			Melamphaes lugubris Gilbert, 1890	Highsnout melamphid	2			CICIMAR		Southern limit	NEP
+	BERYCIFORMES								
+		HOLOCENTRIDAE								
+			Myripristis leiognathus Valenciennes, 1846	Panamic soldierfish	1, 2			SIO	S	Northern limit	TEP
+	SYNGNATHIFORMES								
+		CENTRISCIDAE								
+			Macroramphosus gracilis (Lowe, 1839)	Slender snipefish		2		IBUNAM, CICIMAR, LACM, SIO			CG
+		SYNGNATHIDAE								
+			Syngnathus euchrous Fritzsche, 1980	Chocolate pipefish	2			CAS, SIO		Southern limit	SD
+			Syngnathus exilis (Osburn & Nichols, 1916)	Barcheek pipefish	2, 3	2		CAS, SIO		Southern limit	OR-SD
+	SCORPAENIFORMES								
+		SEBASTIDAE								
+			Sebastes atrovirens (Jordan & Gilbert, 1880)	Kelp Rockfish	1, 2	1, 2		LACM, SIO	S	Southern limit	OR-SD
+			Sebastes auriculatus Girard, 1854	Brown Rockfish	1	1			S		NEP
+			Sebastes aurora (Gilbert, 1890)	Aurora rockfish	3					Southern limit	NEP
+			Sebastes carnatus (Jordan & Gilbert, 1880)	Gopher rockfish			2	LACM			OR-SD
+			Sebastes caurinus Richardson, 1844	Copper rockfish		1, 2, 3		LACM	S	Southern limit	NEP
+			Sebastes chrysomelas (Jordan & Gilbert, 1881)	Black-and-yellow rockfish			2	LACM			OR-SD
+			Sebastes diploproa (Gilbert, 1890)	Splitnose rockfish	2, 3			SIO		Southern limit	NEP
+			Sebastes elongatus Ayres, 1859	Greenstriped rockfish	1, 3				S	Southern limit	NEP
+			Sebastes flavidus (Ayres, 1862)	Yellowtail rockfish	1				S	Range extension South	AL-SD
+			Sebastes hopkinsi (Cramer, 1895)	Squarespot Rockfish	1	1			S	Range extension South	OR-SD
+			Sebastes lentiginosus Chen, 1971	Freckled rockfish	2			LACM		Southern limit	OR-SD
+			Sebastes macdonaldi (Eigenmann & Beeson, 1893)	Mexican rockfish	2			CICIMAR, LACM			SD-CZ
+			Sebastes melanostomus (Eigenmann & Eigenmann, 1890)	Blackgill Rockfish	3					Southern limit	OR-SD
+			Sebastes miniatus (Jordan & Gilbert, 1880)	Vermilion rockfish		1, 2, 3		LACM	S	Southern limit	AL-SD
+			Sebastes paucispinis Ayres, 1854	Bocaccio rockfish	2			SIO		Range extension South	NEP
+			Sebastes rosaceus Girard, 1854	Rosy rockfish	2			SIO		Southern limit	OR-SD
+			Sebastes saxicola (Gilbert, 1890)	Stripetail rockfish	2			SIO			NEP
+			Sebastes semicinctus (Gilbert, 1897)	Halfbanded rockfish	2			SIO		Range extension South	OR-SD
+			Sebastes serranoides (Eigenmann & Eigenmann, 1890)	Olive rockfish		1, 2, 3		SIO	S	Southern limit	OR-SD
+			Sebastes serriceps (Jordan & Gilbert, 1880)	Treefish	1, 2, 3			LACM	S	Southern limit	OR-SD
+			Sebastes sp.	Rockfish	1	1			S		
+			Sebastes umbrosus (Jordan & Gilbert, 1882)	Honeycomb rockfish		2		LACM		Southern limit	OR-SD
+		SCORPAENIDAE								
+			Pontinus vaughani Barnhart & Hubbs, 1946	Spotback scorpionfish	1, 2			SIO	S	Range extension North	CZ-POI
+			Scorpaena guttata Girard, 1854	California scorpionfish	1, 2			UABC, CICIMAR, LACM, SIO	I, S		SD-CZ
+			Scorpaenodes xyris(Jordan & Gilbert, 1882)	Rainbow scorpionfish	2	2		LACM, SIO			SD-PA-POI
+		EPINEPHELIDAE								
+			Mycteroperca rosacea (Streets, 1877)	Leopard grouper			1		S		SD-MX
+		TRIGLIDAE								
+			Prionotus ruscarius Gilbert & Starks, 1904	Rough searobin	2			CICIMAR		Range extension North	SD-CH
+			Prionotus stephanophrys Lockington, 1881	Lumptail searobin	2			CAS, LACM			OR-CH
+	PERCIFORMES 								
+		POLYPRIONIDAE								
+			Stereolepis gigas Ayres 1859	Giant seabass			1		S		SD-CZ
+		SERRANIDAE								
+			Alphestes immaculatus  Breder, 1936	Pacific mutton hamlet		1	1			Northern limit	TEP
+			Epinephelus labriformis (Jenyns, 1840)	Flag cabrilla	1, 3	1, 3			S		SD-PA-POI
+			Paralabrax auroguttatus Walford, 1936	Goldspotted sand bass	1, 2, 3			LACM	S	Northern limit	CZ
+			Paralabrax clathratus (Girard, 1854)	Kelp bass	1, 2	1, 2	1, 2	CICIMAR, LACM, SIO	S		OR-SD
+			Paralabrax maculatofasciatus (Steindachner, 1868)	Spotted sand bass	2			CICIMAR			OR-CZ
+			Paralabrax nebulifer (Girard, 1854)	Barred sand bass	1, 2	1, 2	1	CICIMAR, LACM, SIO	S		OR-MX
+			Paranthias colonus (Valenciennes, 1846)	Pacific creolefish		2	1	LACM	S	Northern limit	TEP
+			Pronotogrammus multifasciatus Gill, 1863	Threadfin bass	2			CICIMAR			SD-PA-POI
+			Serranus psittacinus Valenciennes, 1846	Barred serrano	1, 3				S	Northern limit	TEP
+		APOGONIDAE								
+			Apogon atricaudusJordan & McGregor, 1898	Plain cardinalfish	2, 3			CICIMAR			SD-CZ
+			Apogon guadalupensis (Osburn & Nichols, 1916)	Guadalupe cardinalfish		2		LACM, SIO			SD-CZ
+			Apogon pacificus (Herre, 1935)	Pink cardinalfish		1, 2, 3		SIO	S		SD-CH-POI
+			Apogon retrosella (Gill, 1862)	Barspot cardinalfish	1, 2, 3	1, 2, 3	1	LACM, SIO	S	Northern limit	TEP
+		MALACANTHIDAE								
+			Caulolatilus princeps (Jenyns, 1840)	Ocean whitefish	1, 2	1, 2	1, 2	LACM, SIO	S		EP
+		CARANGIDAE								
+			Caranx caballus Günther, 1868	Green jack			1		S		SD-CH
+			Chloroscombrus orqueta Jordan & Gilbert, 1883	Pacific bumper	2			CICIMAR			SD-CH
+			Decapterus muroadsi (Temminck & Schlegel, 1844)	Amberstripe Scad	2	2		LACM		Northern limit	TR
+			Seriola lalandi Valenciennes, 1833	Yellowtail jack	1, 2	1	1, 2	CICIMAR, LACM, SIO	S		CT
+			Trachurus symmetricus (Ayres, 1855)	Pacific jack mackerel	1	1, 2		CICIMAR, LACM, SIO	S		AL-CZ
+			Uraspis secunda (Poey, 1860)	Whitemouth jack		2		SIO			CG
+		CORYPHAENIDAE								
+			Coryphaena hippurus Linnaeus, 1758	Dolphinfish	2		1	CICIMAR, SIO	S		CT
+		CARISTIIDAE								
+			Caristius macropus (Bellotti, 1903)	Bigmouth Manefish	3					Southern limit	NEP
+		GERREIDAE								
+			Eucinostomus dowii (Gill, 1863)	Pacific spotfin mojarra		2		SIO			SD-CH
+		HAEMULIDAE								
+			Anisotremus davidsonii (Steindachner, 1876)	Sargo	1, 2	1, 2	1	CICIMAR, LACM, SIO	S		SD-CZ
+			Anisotremus interruptus (Gill, 1862)	Burrito grunt	1				S	Northern limit	TEP
+			Orthopristis reddingi Jordan & Richardson, 1895	Bronzestriped grunt	2, 3			CAS		Northern limit	SD-MX
+			Xenistius californiensis (Steindachner, 1876)	Salema	1	1			S		OR-PA
+		SPARIDAE								
+			Calamus brachysomus (Lockington, 1880)	Pacific porgy		2	1	SIO	S		SD-CH
+		SCIAENIDAE								
+			Cheilotrema saturnum (Girard, 1858)	Black croaker		2		SIO			SD-CZ
+			Genyonemus lineatus (Ayres, 1855)	White croaker	2			SIO			OR-SD
+			Larimus acclivis Jordan & Bristol, 1898	Steeplined Drum	3					Northern limit	TEP
+			Pareques sp.	Croaker	1	1, 2			S		
+			Seriphus politus Ayres, 1860	Queenfish	2			SIO			OR-CZ
+			Umbrina roncador Jordan & Gilbert, 1882	Yellowfin croaker	2			SIO			SD-CZ
+		KYPHOSIDAE								
+			Girella nigricans (Ayres, 1860)	Opaleye	1, 2	1, 2	1, 2	UABC, LACM, SIO	I, S		SD-CZ
+			Kyphosus azurea Jenkins & Evermann, 1889	Zebraperch	1, 2		1, 2	UABC, CICIMAR	I, S		OR-CZ
+			Medialuna californiensis (Steindachner, 1876)	Halfmoon	1, 2	1, 2	1, 2	IBUNAM, CICIMAR, LACM, SIO	S		AL-CZ
+		CHAETODONTIDAE								
+			Chaetodon humeralis Günther, 1860	Threebanded butterflyfish		2		SIO		Northern limit	SD-CH
+			Johnrandallia nigrirostris (Gill, 1862)	Barberfish	1, 3	3			S	Northern limit	TEP
+			Prognathodes falcifer (Hubbs & Rechnitzer, 1958)	Scythe butterflyfish	2	1, 2		LACM, SIO	S		SD-CZ
+		MUGILIDAE								
+			Mugil curema  Valenciennes, 1836	White mulet			1, 2	UABC	I		CT
+		POMACANTHIDAE								
+			Pomacanthus zonipectus (Gill, 1862)	Cortez angelfish		2		SIO			TEP
+		EMBIOTOCIDAE								
+			Brachyistius frenatus Gill, 1862	Kelp Surfperch	1, 2	1, 2	1	SIO	S	Southern limit	AL-SD
+			Embiotoca jacksoni Agassiz, 1853	Black Perch	1, 2	1, 2	1, 2	CICIMAR, SIO	S		OR-SD
+			Embiotoca sp.		2			SIO			
+			Hyperprosopon argenteum Gibbons, 1854	Walleye surfperch	2			SIO		Southern limit	OR-SD
+			Micrometrus minimus (Gibbons, 1854)	Dwarf perch	2			SIO		Southern limit	OR-SD
+			Phanerodon atripes (Jordan & Gilbert, 1880)	Sharpnose seaperch	1	1, 2		SIO	S	Southern limit	OR-SD
+			Phanerodon furcatus Girard, 1854	White Seaperch	1	1			S	Range extension South	AL-SD
+			Rhacochilus toxotes Agassiz, 1854	Rubberlip Seaperch	1, 2	1, 2		LACM, SIO	S	Southern limit	OR-SD
+			Rhacochilus vacca (Girard, 1855)	Pile perch	2		1	LACM	S	Range extension South	NEP
+			Zalembius rosaceus (Jordan & Gilbert, 1880)	Pink seaperch	2			CAS, LACM, SIO		Range extension South	OR-CZ
+		POMACENTRIDAE								
+			Abudefduf troschelii (Gill, 1862)	Panamic sergeant major	1, 2	1	1	UABC	I, S	Northern limit	SD-CH-POI
+			Azurina hirundo Jordan & McGregor, 1898	Swallow damselfish		2, 3		KU, SIO			SD-CZ
+			Chromis alta Greenfield & Woods, 1980	Silverstripe chromis	1, 2	1, 2		KU, SIO	S		SD-CH-POI
+			Chromis atrilobata Gill, 1862	Scissortail chromis	1, 2	2		SIO	S	Northern limit	TEP
+			Chromis punctipinnis (Cooper, 1863)	Blacksmith	1, 2	1, 2	1, 2	CICIMAR, KU, LACM, SIO	S		OR-SD
+			Hypsypops rubicundus (Girard, 1854)	Garibaldi	1, 2	1, 2	1, 2	UABC, CICIMAR, LACM, SIO	I, S		SD-CZ
+			Stegastes flavilatus (Gill, 1862)	Beaubrummel	1, 3				S	Northern limit	TEP
+			Stegastes leucorus (Gilbert, 1892)	Whitetail damselfish		1, 2		SIO	S		CZ-MX
+			Stegastes rectifraenum (Gill, 1862)	Cortez damselfish		2		LACM, SIO			SD-MX
+		LABRIDAE								
+			Bodianus diplotaenia (Gill, 1862)	Mexican hogfish	1, 2, 3	2		LACM	S	Northern limit	SD-CH-POI
+			Halichoeres dispilus (Günther, 1864)	Chameleon wrasse	1	1, 2		SIO	S	Northern limit	TEP
+			Halichoeres melanotis (Gilbert, 1890)	Golden wrasse	3	1, 3			S	Northern limit	TEP
+			Halichoeres notospilus (Günther, 1864)	Banded wrasse	1, 2		1	UABC	I, S	Range extension North	TEP
+			Halichoeres semicinctus (Ayres, 1859)	Rock wrasse	1, 2	1, 2	1, 2	UABC, CICIMAR, CAS, LACM, SIO	I, S		SD-CZ
+			Oxyjulis californica (Günther, 1861)	Señorita	1	1, 2	1	SIO	S		OR-SD
+			Semicossyphus pulcher (Ayres, 1854)	California sheephead	1, 2	1, 2	1, 2	LACM, SIO	S		OR-CZ
+			Thalassoma lucasanum (Gill, 1862)	Cortez rainbow wrasse	1	1			S	Northern limit	TEP
+		SCARIDAE								
+			Nicholsina denticulata (Evermann & Radcliffe, 1917)	Loosetooth parrotfish	1, 3	1, 3			S		SD-PA-POI
+		ZOARCIDAE								
+			Lyconema barbatum Gilbert, 1896	Bearded eelpout	2	2		SIO		Southern limit	OR-SD
+		CHIASMODONTIDAE								
+			Chiasmodon niger Johnson, 1864	Black swallower	2			CICIMAR		Range extension South	CG
+		URANOSCOPIDAE								
+			Kathetostoma averruncus Jordan & Bollman, 1890	Smooth stargazer	2	2		UF, LACM, SIO			SD-CH
+		TRIPTERYGIIDAE								
+			Enneanectes carminalis (Jordan & Gilbert, 1882)	Carmine triplefin		1, 2		LACM	S	Northern limit	TEP
+			Enneanectes reticulatus Allen & Robertson, 1991	Flag triplefin		2		SIO		Northern limit	CZ
+		LABRISOMIDAE								
+			Alloclinus holderi (Lauderbach, 1907)	Island kelpfish	1, 2	1, 2	1	UABC, LACM, SIO	S		SD
+			Labrisomus multiporosus Hubbs, 1953	Porehead blenny	1, 2		1, 2	UABC	I	Northern limit	TEP
+			Labrisomus sp.	Blenny		2		SIO			
+			Labrisomus xanti Gill, 1860	Largemouth blenny	1, 2		1	UABC, LACM	I	Northern limit	TEP
+			Paraclinus integripinnis (Smith, 1880)	Reef finspot	1, 2	1, 2	2	UABC, LACM, SIO	I		OR-SD
+			Starksia guadalupae Rosenblatt & Taylor, 1971	Guadalupe blenny		2		LACM			SD
+		CLINIDAE								
+			Gibbonsia elegans (Cooper, 1864)	Spotted kelpfish	1, 2	1, 2	1, 2	UABC, LACM, SIO	I		OR-SD
+			Gibbonsia montereyensis Hubbs, 1927	Crevice kelpfish	1, 2	1, 2	1, 2	UABC, SIO	I	Range extension South	AL-SD
+			Heterostichus rostratus Girard, 1854	Giant kelpfish	1, 2	1, 2	1, 2	UABC, CAS, LACM, SIO	I, S		OR-SD
+		CHAENOPSIDAE								
+			Neoclinus blanchardi Girard, 1858	Sarcastic fringehead	2, 3			LACM		Southern limit	OR-SD
+		DACTYLOSCOPIDAE								
+			Gillellus semicinctus Gilbert, 1890	Halfbanded stargazer	2			SIO		Northern limit	TEP
+		BLENNIIDAE								
+			Hypsoblennius gilberti (Jordan, 1882)	Rockpool blenny	1, 2		1, 2	UABC	I		SD
+			Hypsoblennius jenkinsi (Jordan & Evermann, 1896)	Mussel blenny	1, 2	1, 2		UABC, SIO	I		SD-CZ
+			Hypsoblennius gentilis 	Bay blenny	1		1		I		SD-CZ
+			Ophioblennius steindachneri Jordan & Evermann, 1898	Panamic fanged blenny	1, 2		1, 2	UABC	I, S		TEP
+			Plagiotremus azaleus (Jordan & Bollman, 1890)	Sabertooth blenny	1, 3				S		SD-PA-POI
+		CALLIONYMIDAE								
+			Synchiropus atrilabiatus (Garman, 1899)	Blacklip Dragonet	3						SD-CH-POI
+		ELEOTRIDAE								
+			Eleotris picta Kner, 1863	Spotted sleeper	2			CICIMAR		Range extension North	TEP
+		GOBIIDAE								
+			Acanthogobius flavimanus (Temminck & Schlegel, 1845)	Yellowfin goby	3					Range extension South	NWP
+			Bathygobius ramosus Ginsburg, 1947	Panamic frillfin	1, 2		1	UABC	I	Range extension North	TEP
+			Lepidogobius lepidus (Girard, 1858)	Bay goby	3					Southern limit	EP
+			Lythrypnus dalli (Gilbert, 1890)	Bluebanded goby	1, 2	1, 2	1	CICIMAR, LACM, SIO	S		SD-PA-POI
+			Lythrypnus zebra (Gilbert, 1890)	Zebra goby	2	1, 2	2	LACM, SIO	S		SD-CZ
+			Rhinogobiops nicholsii (Bean, 1882)	Blackeye goby	1, 2, 3	1	1	LACM	S	Southern limit	AL-SD
+		LUVARIDAE								
+			Luvarus imperialis Rafinesque, 1810	Louvar	2			SIO			CG
+		SPHYRAENIDAE								
+			Sphyraena argentea Girard, 1854	Pacific barracuda	2		1	CICIMAR, SIO	S		NEP
+			Sphyraena lucasana Gill, 1863	Cortez barracuda	1, 2, 3			UABCS	S	Northern limit	CZ-MX
+		TRICHIURIDAE								
+			Lepidopus fitchi Rosenblatt & Wilson, 1987	Pacific scabbardfish	2			CICIMAR, LACM			OR-CH
+		SCOMBRIDAE								
+			Sarda chiliensis (Cuvier, 1832)	Pacific bonito	2		2	SIO			AL-PA
+			Scomber japonicus Houttuyn, 1782	Pacific chub mackerel	2			CICIMAR, SIO			TR
+		STROMATEIDAE								
+			Peprilus simillimus (Ayres, 1860)	Pacific Pompano	3						OR-CZ
+	COTTIFORMES								
+		HEXAGRAMMIDAE								
+			Ophiodon elongatus Girard, 1854	Lingcod			1		S	Range extension South	AL-SD
+			Zaniolepis frenata Eigenmann & Eigenmann, 1889	Shortspine combfish	2	2		LACM, SIO			OR-CZ
+			Zaniolepis latipinnis Girard, 1858	Longspine combfish	2			LACM, SIO			OR-SD
+		COTTIDAE								
+			Chitonotus pugetensis (Steindachner 1876)	Soughback sculpin 	2	2		LACM			NEP
+			Clinocottus analis (Girard, 1858)	Woolly sculpin	1, 2	1, 2	1, 2	UABC, LACM, SIO	I		OR-SD
+			Icelinus cavifrons Gilbert, 1890 	Pit-head sculpin 	2			LACM		Southern limit	OR-SD
+			Icelinus fimbriatus Gilbert, 1890 	Fringed Sculpin	3					Range extension South	OR-SD
+			Icelinus quadriseriatus (Lockington, 1880)	Yellowchin Sculpin	2, 3			CAS, LACM, SIO			OR-SD
+			Icelinus tenuis Gilbert, 1890	Spotfin sculpin 		2, 3		LACM		Southern limit	NEP
+			Ruscarius creaseri	Roughcheek sculpin	2		SIO		Southern limit	OR-SD
+			Scorpaenichthys marmoratus (Ayres, 1854)	Cabezon	1, 2	2	1	UABC, LACM, SIO	I, S		AL-SD
+		ANOPLOPOMATIDAE								
+			Anoplopoma fimbria (Pallas, 1814)	Sablefish		2, 3		LACM		Southern limit	NEP
+		AGONIDAE								
+			Agonopsis sterletus (Gilbert, 1898)	Southern spearnose poacher	2			LACM, SIO		Southern limit	OR-CZ
+			Odontopyxis trispinosa Lockington, 1880	Pygmy poacher	2			LACM		Southern limit	NEP
+			Xeneretmus ritteri Gilbert, 1915	Stripefin Poacher	3					Southern limit	SD
+	PLEURONECTIFORMES 								
+		PARALICHTHYIDAE								
+			Citharichthys fragilis Gilbert, 1890	Gulf sanddab	2			CAS, SIO			SD-CZ
+			Citharichthys sordidus (Girard, 1854)	Pacific sanddab	2			CICIMAR, LACM, SIO			AL-CZ
+			Citharichthys sp.		2			LACM			
+			Citharichthys stigmaeus Jordan & Gilbert, 1882	Speckled sanddab	2	2		CICIMAR, LACM, SIO			AL-CZ
+			Citharichthys xanthostigma Gilbert, 1890	Longfin sanddab	2	2		CICIMAR, SEMAR, CAS, LACM, SIO			SD-PA
+			Etropus crossotus Jordan & Gilbert, 1882	Fringed flounder	2			CICIMAR		Northern limit	AA
+			Hippoglossina stomata Eigenmann & Eigenmann, 1890	Bigmouth sole	2			CICIMAR, LACM			OR-CZ
+			Paralichthys californicus (Ayres, 1859)	California halibut	1, 2			IBUNAM, CICIMAR	S		OR-SD
+			Xystreurys liolepis Jordan & Gilbert, 1880	Fantail sole	2			LACM, SIO			OR-CZ
+		BOTHIDAE								
+			Monolene asaedai Clark, 1936	Dark flounder	3					Range extension North	CZ-PA
+		PLEURONECTIDAE								
+			Glyptocephalus zachirus Lockington, 1879	Rex Sole	3					Southern limit	NEP
+			Lyopsetta exilis (Jordan & Gilbert, 1880)	Slender sole	2	2		CICIMAR, SIO			AL-SD
+			Parophrys vetulus (Girard, 1854)	English sole	2			SIO		Southern limit	NEP
+			Pleuronichthys coenosus Girard, 1854	C-O sole			2	LACM		Southern limit	AL-SD
+			Pleuronichthys decurrens Jordan & Gilbert,1881	Curlfin sole	2			CAS		Southern limit	AL-SD
+			Pleuronichthys ritteri Starks & Morris, 1907	Spotted turbot	2			LACM			OR-SD
+			Pleuronichthys verticalis Jordan & Gilbert, 1880	Hornyhead turbot	2		2	CICIMAR, LACM, SIO			OR-CZ
+		CYNOGLOSSIDAE								
+			Symphurus atricaudus (Jordan & Gilbert, 1880)	California tonguefish	2			CICIMAR, CAS, LACM, SIO			OR-PA
+	TETRAODONTIFORMES								
+		BALISTIDAE								
+			Sufflamen verres (Gilbert & Starks, 1904)	Orangeside triggerfish	1, 3				S	Northern limit	TEP
+		TETRAODONTIDAE								
+			Sphoeroides lobatus (Steindachner, 1870)	Longnose puffer			1		S		SD-CH
+		DIODONTIDAE								
+ 	 	 	Diodon holocanthus Linnaeus, 1758	Balloonfish	2	 	 	CICIMAR	 	 	CT
+
+
+
+
+
+Table 3. Fish species that present range extension in their distribution in Cedros Archipelago. Reference corresponds to the most updated geographic distribution reference for these species. * Represents field records recorded in this study.
+Scientific Name	Reference	Extension to:	Northern End	Southern End
+Bathygobius ramosus*	Robertson and Allen, 2015	North	24.55 N	06.11 S
+Eleotris picta	Love et al. 2005	North	23.05 N	09.25 S
+Halichoeres notospilus*	Robertson and Allen, 2015	North	26.13 N	06.93 S
+Hemiramphus saltator	Love et al. 2005	North	26.01 N	09.25 S
+Lepophidium prorates	Love et al. 2005	North	27.01 N	05.10 S
+Monolene asaedai 	Love et al. 2005	North	24.51 N	08.50 N
+Nannobrachium idostigma	Love et al. 2005	North	27.20 N	35.75 S
+Platybelone argalus 	Love et al. 2005	North	26.10 N	35.75 S
+Prionotus ruscarius	Love et al. 2005	North	26.00 N	35.75 S
+Acanthogobius flavimanus	Love et al. 2005	South	52.10 N	32.68 N
+Chiasmodon niger	Love et al. 2005	South	47.33 N	32.43 N
+Gibbonsia montereyensis*	Love et al. 2005	South	53.75 N	29.05 N
+Icelinus fimbriatus  	Love et al. 2005	South	53.50 N	32.71 N
+Ophiodon elongatus*	Love et al. 2005	South	55.00 N	29.61 N
+Phanerodon furcatus*	Love et al. 2005	South	40.60 N	29.60 N
+Rhacochilus vacca*	Love et al. 2005	South	53.75 N	29.03 N
+Sebastes flavidus	Love et al. 2005	South	59.50 N	30.49 N
+Sebastes hopkinsi*	Love et al. 2005	South	43.75 N	29.03 N
+Sebastes paucispinis	Love et al. 2005	South	59.50 N	29.08 N
+
+ 
+
+
+ 
+Figure 1. Locations of field surveys at the Cedros Archipelago, México
+
+
+  
+Figure 2. Non-Metric Dimensional Scaling (nMDS) for fish species recorded in the subtidal field surveys at Cedros, Natividad and San Benito, and eight islands in the Pacific coast of Baja California and California [data from Pondella et al. (2005), Reyes-Bonilla et al. (2010) and present study].
+
+
+ 
+ 
+Figure 3. Distribution ranges (bars) in the eastern Pacific of 262 species included in Table 1. Black lines: species widely distributed in the EP surpassing the 30 degrees Latitude in both hemispheres. Blue lines: species with temperate affinity. Red lines: fishes with tropical-subtropical affinity. Black line: Latitud in where CEA archipelago is located. 
+
+ 
+Figure 4. Distribution patterns of fish species of the Cedros Archipelago. (AL= Aleutian province, OR= Oregonian province, SD= San Diegan province, CZ= Cortez province, MX= Mexican province, PA= Panamic Province, PE= Peruvian province, POI= Pacific Oceanic Islands province) 
+

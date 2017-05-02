@@ -1,0 +1,75 @@
+---
+title: "Worclouds of my papers"
+author: "Villaseñor-Derbez, J.C."
+date: "5 de abril de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+```
+
+```{r}
+suppressPackageStartupMessages({
+  library(tm)
+  library(tidyverse)
+  library(wordcloud)
+})
+```
+
+
+```{r}
+my_wordcloud <- function(paper) {
+  dtm <- tm_map(paper, removePunctuation) %>% 
+    tm_map(tolower) %>% 
+    tm_map(removeWords, stopwords("english")) %>% 
+    tm_map(PlainTextDocument) %>% 
+    DocumentTermMatrix()
+  
+  freq=colSums(as.matrix(dtm))
+  
+  #Order of words
+  ord=order(freq)
+  
+  #Frequency Decending
+  FreqDec=sort(colSums(as.matrix(dtm)), decreasing=TRUE)
+  
+  #Creating a data.frame
+  wf=data.frame(word=names(FreqDec), freq=FreqDec)
+  
+  #Wordcloud
+  wordcloud(names(freq), freq, max.words=100, scale=c(3.5, 0.5), colors=brewer.pal(8,"Spectral"))
+}
+```
+
+```{r}
+txt <- "./txt"
+
+ovid <- VCorpus(DirSource(txt))
+```
+
+```{r}
+my_wordcloud(ovid[1])
+```
+
+```{r}
+my_wordcloud(ovid[2])
+```
+
+```{r}
+my_wordcloud(ovid[3])
+```
+
+```{r}
+my_wordcloud(ovid[4])
+```
+
+```{r}
+my_wordcloud(ovid[5])
+```
+
+```{r}
+my_wordcloud(ovid[6])
+```
+
+
